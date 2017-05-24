@@ -58,10 +58,10 @@
               "color": "#848282"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -93,7 +93,7 @@
           "_anchor": "ext_menu-1",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": 0.75,
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#848282",
             "fontHoverColor": "@primaryColor",
