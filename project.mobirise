@@ -107,7 +107,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sans-titre3-413x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sans-titre-4-361x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "home.html",
