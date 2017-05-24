@@ -97,7 +97,7 @@
             "fontName": {},
             "fontColor": "#848282",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
