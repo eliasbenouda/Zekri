@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -471,4 +472,8 @@ h6,
 #ext_menu-1 .link[aria-expanded="true"],
 #ext_menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#slider-2 H2 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
 }
